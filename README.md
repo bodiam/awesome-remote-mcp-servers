@@ -436,6 +436,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 🌐 <a name="browser-automation"></a>Browser Automation
 
+- [Allscreenshots](https://allscreenshots.com) `https://mcp.allscreenshots.com/mcp/v1`
+  [![Allscreenshots MCP connector](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.allscreenshots/allscreenshots)
+  🔐 - Capture website screenshots, run bulk captures, and manage screenshot schedules and history.
+
 - [APEX](https://apexfaucet.xyz/connect/) `https://apexfaucet.xyz/api/mcp`
   [![APEX MCP connector](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.apexfaucet/apex-x1)
   🔓 - Render a URL, or up to 25 pages of a site, to clean text in headless Chrome; $1 per call via x402.
